@@ -1,6 +1,5 @@
 class Dog 
   
-  def fido
-end  
+  variable = fido 
 end
 
